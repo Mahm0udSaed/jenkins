@@ -32,10 +32,10 @@ public class EmployeeControllerIntegrationTest {
 		return "http://localhost:" + port;
 	}
 
-	@Test
-	public void contextLoads() {
+	//@Test
+	//public void contextLoads() {
 
-	}
+	//}
 
 	@Test
 	public void testGetAllEmployees() {
