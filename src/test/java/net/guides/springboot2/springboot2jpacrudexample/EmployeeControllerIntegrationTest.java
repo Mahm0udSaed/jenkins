@@ -29,7 +29,7 @@ public class EmployeeControllerIntegrationTest {
 	private int port;
 
 	private String getRootUrl() {
-		return "http://localhost:" + port;
+		return "http://dummy.restapiexample.com";
 	}
 
 	@Test
